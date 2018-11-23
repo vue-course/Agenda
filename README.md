@@ -3,7 +3,7 @@ The course syllabus copy shared with the students as a google doc, developed app
 
 ## Syllabus
 
-Course no 1 + meeting no 2 (hands-on) will include:
+**Course no 1 + meeting no 2 (hands-on) will include:**
 
 - The vue instance
 - data, methods, computed, watchers, template.
@@ -20,7 +20,7 @@ Course no 1 + meeting no 2 (hands-on) will include:
 
 - Project structure and configurations, using the vue CLI.
 
-Course no 3 + meeting no 4 (hands-on) will include:
+**Course no 3 + meeting no 4 (hands-on) will include:**
 - Directives
 - Built in directives 
 - Custom directive
@@ -41,7 +41,7 @@ Course no 3 + meeting no 4 (hands-on) will include:
 - $route / $router services
 - Passing props to view components
 
-Course no 5 + meeting no 6 (hands-on) will include:
+**Course no 5 + meeting no 6 (hands-on) will include:**
 
 - Slots
 - Slots usability 
